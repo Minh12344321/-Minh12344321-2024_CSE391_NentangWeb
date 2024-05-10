@@ -1,4 +1,4 @@
-#1. Description
+#  Description
 
 *This is repository stores practice exercise about Web Platform subject*
 
